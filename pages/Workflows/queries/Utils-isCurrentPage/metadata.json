@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
     "fullyQualifiedName": "Utils.isCurrentPage",
     "name": "isCurrentPage",
     "pageId": "Workflows",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }
